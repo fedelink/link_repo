@@ -2,8 +2,7 @@
   "name": "Repo di Federico",
   "subtitle": "Raccolta di app utili",
   "identifier": "com.federico.altstorerepo",
-  "sourceURL": "https://tuosito.com/repo-di-federico/",
-  "website": "https://tuosito.com",
+  "sourceURL": "https://tuousername.github.io/repo-di-federico/",
   "iconURL": "https://drive.google.com/uc?export=download&id=1wnzyr3kMwO_R5TUJDa8E2lrkGUHKAaLZ",
   "apps": [
     {
@@ -16,8 +15,33 @@
       "downloadURL": "https://drive.google.com/uc?export=download&id=1SmJsysFFPQul4cvEYi_dxJNA4MvgJUE-",
       "localizedDescription": "Lightroom per iPad con funzionalità premium.",
       "iconURL": "https://drive.google.com/uc?export=download&id=1-f9pAUROQSPVTcyO_HvcgXL1N1wOTAub",
-      "size": 350000000,
+      "size": 190016924,
       "tintColor": "2D2D2D"
+    },
+    {
+      "name": "djay++",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "developerName": "Algoriddim",
+      "version": "5.2.9",
+      "versionDate": "2024-05-30",
+      "versionDescription": "Versione modificata per funzionalità complete",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1kfntcoGDRixLsIFWm7639dbotIAo-yCX",
+      "localizedDescription": "App professionale per DJ con supporto a mixaggio, effetti e librerie musicali.",
+      "iconURL": "https://drive.google.com/uc?export=download&id=1FohqmbsLvitVg9HYcvpTBGZAFBpbWfAM",
+      "size": 171005385,
+      "tintColor": "FF5722",
+      "permissions": [
+        {
+          "type": "microphone",
+          "usageDescription": "Permette l'uso del microfono per funzioni come Shazam e controllo vinile (DVS)."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "Accede alla libreria per caricare video."
+        }
+      ],
+      "supportedOS": "15.0+",
+      "screenshotURLs": [] 
     }
   ]
 }
