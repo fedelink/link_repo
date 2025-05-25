@@ -1,0 +1,23 @@
+{
+  "name": "Repo di Federico",
+  "subtitle": "Raccolta di app utili",
+  "identifier": "com.federico.altstorerepo",
+  "sourceURL": "https://tuosito.com/repo-di-federico/",
+  "website": "https://tuosito.com",
+  "iconURL": "https://drive.google.com/uc?export=download&id=1wnzyr3kMwO_R5TUJDa8E2lrkGUHKAaLZ",
+  "apps": [
+    {
+      "name": "Adobe Lightroom for iPad",
+      "bundleIdentifier": "com.adobe.lrmobile",
+      "developerName": "Adobe",
+      "version": "10.2.0",
+      "versionDate": "2024-05-25",
+      "versionDescription": "Versione premium modificata",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1SmJsysFFPQul4cvEYi_dxJNA4MvgJUE-",
+      "localizedDescription": "Lightroom per iPad con funzionalità premium.",
+      "iconURL": "https://drive.google.com/uc?export=download&id=1-f9pAUROQSPVTcyO_HvcgXL1N1wOTAub",
+      "size": 350000000,
+      "tintColor": "2D2D2D"
+    }
+  ]
+}
